@@ -1,6 +1,6 @@
 # Your Next Meal
 
-![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/sidsanc/yournextmeal/blob/main/README.md)
 [![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Code-Django-092E20?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/start/)
 [![React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)](https://react.dev/)
