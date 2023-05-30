@@ -6,7 +6,7 @@
 [![React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)](https://react.dev/)
 [![MongoDB](https://img.shields.io/badge/DataBase-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 ![AWS](https://img.shields.io/badge/AWS-Amazon%20Web%20Services-orange?style=flat&logo=amazon-aws)
-![Jenkins](https://img.shields.io/badge/CI-Jenkins-black?style=flat&logo=jenkins)
+![Jenkins](https://img.shields.io/badge/CI-Jenkins-red?style=flat&logo=jenkins)
 
 Your Next Meal is a donor-receiver match platform developed using Django, ReactJS, and MongoDB. The project aims to connect food donors with organizations or individuals in need, reducing food waste and ensuring that no one goes hungry.
 
