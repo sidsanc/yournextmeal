@@ -79,7 +79,7 @@ Contributions are welcome! If you would like to contribute to the project, pleas
 
 ## License
 
-This project is licensed under the ![MIT License](https://camo.githubusercontent.com/cf4ab92dec52d7aa98f83aa50e8186c65252b0dd21e16e1eacf53277d3c07a0a/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6a656e6b696e7363692f6769746875622d706c7567696e2e737667)
+This project is licensed under the [![MIT License](https://camo.githubusercontent.com/cf4ab92dec52d7aa98f83aa50e8186c65252b0dd21e16e1eacf53277d3c07a0a/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6a656e6b696e7363692f6769746875622d706c7567696e2e737667)](https://github.com/jenkinsci/github-plugin/blob/master/LICENSE)
 
 ## Contact
 
