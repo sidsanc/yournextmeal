@@ -35,18 +35,21 @@ Your Next Meal is a donor-receiver match platform developed using Django, ReactJ
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-next-meal.git
+   git clone https://github.com/sidsanc/yournextmeal.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd your-next-meal
+   cd yournextmeal
    ```
 
 3. Install dependencies:
 
    ```bash
+   python3 -m venv ./
+   source ./bin/activate
+   
    pip install -r requirements.txt
    ```
 
@@ -57,6 +60,12 @@ Your Next Meal is a donor-receiver match platform developed using Django, ReactJ
    ```
 
 5. Open your web browser and access the application at `http://localhost:8000`.
+
+6. If you are getting [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate 
+```bash
+try: 
+open /Applications/Python <local version>/Install\ Certificates.command
+```
 
 ## Contributing
 
@@ -80,27 +89,5 @@ For any inquiries or suggestions, feel free to reach out to me:
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white)](mailto:sanchetisiddhantk@gmail.com)
 
 Let's connect and make a difference together!
-Install python 3.8, pip3
-
-Checkout repo: 
-https://github.com/sidsanc/yournextmeal
 
 
-Set Up venv
-
-python3 -m venv ./
-source ./bin/activate
-
-
-pip3 install -r requirements.txt
-
-
-If you are getting 
-[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate 
-try: 
-open /Applications/Python <local version>/Install\ Certificates.command
-
-
-
-To run application locally:
-python3  manage.py runserver
