@@ -2,9 +2,9 @@
 
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)
 [![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/start/)
+[![Django](https://img.shields.io/badge/Code-Django-092E20?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/start/)
 [![React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)](https://react.dev/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![MongoDB](https://img.shields.io/badge/DataBase-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 ![AWS](https://img.shields.io/badge/AWS-Amazon%20Web%20Services-orange?style=flat&logo=amazon-aws)
 ![Jenkins](https://img.shields.io/badge/CI-Jenkins-black?style=flat&logo=jenkins)
 
