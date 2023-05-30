@@ -1,12 +1,12 @@
 # Your Next Meal
 
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)
-![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)
-![Django](https://img.shields.io/badge/Django-green?style=flat&logo=django)
-![ReactJS](https://img.shields.io/badge/ReactJS-blue?style=flat&logo=react)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb)
+[![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/start/)
+[![React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)](https://react.dev/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 ![AWS](https://img.shields.io/badge/AWS-Amazon%20Web%20Services-orange?style=flat&logo=amazon-aws)
-![Jenkins](https://img.shields.io/badge/Jenkins-black?style=flat&logo=jenkins)
+![Jenkins](https://img.shields.io/badge/CI-Jenkins-black?style=flat&logo=jenkins)
 
 Your Next Meal is a donor-receiver match platform developed using Django, ReactJS, and MongoDB. The project aims to connect food donors with organizations or individuals in need, reducing food waste and ensuring that no one goes hungry.
 
